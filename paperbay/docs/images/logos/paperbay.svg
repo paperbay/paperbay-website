@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="100%"
+   height="100%"
+   viewBox="0 0 634.66 585.83"
+   id="svg6624">
+  <defs
+     id="defs11" />
+  <g
+     transform="translate(-82.714,-150.54)"
+     id="layer1">
+    <path
+       d="m 879.10468,940.73564 -1.4797,17.757 5.919,19.237 25.156,22.196 17.757,11.83796"
+       id="path6732-3"
+       style="fill:none;stroke:#000000;stroke-width:2.07159996px" />
+    <g
+       transform="matrix(1.6550219,0,0,1.6550219,-268.19097,-273.89331)"
+       id="g3185">
+      <g
+         transform="matrix(0.89803921,0,0,0.89803921,773.41367,149.42412)"
+         id="g3091">
+        <path
+           d="m -260.08369,174.98351 a 167.91118,167.91118 0 1 1 -335.82236,0 167.91118,167.91118 0 1 1 335.82236,0 z"
+           transform="matrix(1.0851064,0,0,1.0851064,46.973005,126.35907)"
+           id="path3067-9"
+           style="opacity:0.69020003;fill:#729fcf;fill-opacity:1" />
+        <path
+           d="m -260.08369,174.98351 a 167.91118,167.91118 0 1 1 -335.82236,0 167.91118,167.91118 0 1 1 335.82236,0 z"
+           transform="translate(10.547902,141.25129)"
+           id="path3067"
+           style="opacity:0.69020003;fill:#729fcf;fill-opacity:1" />
+      </g>
+      <g
+         transform="matrix(0.26616168,0,0,0.26616168,495.50533,359.00235)"
+         id="g3061"
+         style="opacity:0.72579998">
+        <g
+           transform="translate(-69.797453,-134.22587)"
+           id="g3116">
+          <path
+             d="m -610.84044,452.8342 v 9.6183 l 5.919,11.838 16.277,22.936 21.456,18.497 19.977,13.318 11.838,4.4392 39.213,5.1791 338.86005,25.156 179.05,-482.400003 -18.4970001,0.7399 -8.8785,-13.318 -10.3579999,-16.277 -3.6994,-23.676 -2.2196,-15.537 8.1386,-32.554 -5.1791,-0.73987 -319.63004,31.815 h -7.3987 l -5.1791,-2.9595002 -253.04001,432.8299732 -6.6589,11.098 z"
+             id="path6726-8"
+             style="fill:#333333;stroke:#000000;stroke-width:2.07159996px" />
+          <path
+             d="m -600.48244,457.2742 5.1791,12.578 14.058,21.456 19.977,17.017 17.017,11.098 11.098,5.919 36.994,1.4797 329.24005,22.196 176.0899999,-463.900003 -7.3987,-3.6994 -19.2369999,-28.115 -4.4392,-45.1320002 -181.27,465.3800032 -19.977,2.2196 -377.34005,-18.497 z"
+             id="path6728-4"
+             style="fill:#ffffff;stroke:#000000;stroke-width:2.07159996px" />
+          <path
+             d="M -594.56044,457.2742 -342.26043,12.614197"
+             id="path6730-1"
+             style="fill:none;stroke:#000000;stroke-width:2.07159996px" />
+          <path
+             d="m -220.93039,477.2442 -1.4797,17.757 5.919,19.237 25.156,22.196 17.757,11.838"
+             id="path6732-2"
+             style="fill:none;stroke:#000000;stroke-width:2.07159996px" />
+        </g>
+      </g>
+      <text
+         x="488.51038"
+         y="528.33459"
+         id="text3069"
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"><tspan
+           x="488.51038"
+           y="528.33459"
+           id="tspan3071">PAPERBAY</tspan></text>
+      <text
+         x="489.15686"
+         y="551.35181"
+         id="text3069-7"
+         xml:space="preserve"
+         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"><tspan
+           x="489.15686"
+           y="551.35181"
+           id="tspan3071-3">.ORG</tspan></text>
+    </g>
+  </g>
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title></dc:title>
+        <dc:date>2010-08-08T01:11:16</dc:date>
+        <dc:description>A slightly sketchy, greyscale book</dc:description>
+        <dc:source>https://openclipart.org/detail/78469/book-by-gingercoons</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>gingercoons</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>black and white</rdf:li>
+            <rdf:li>book</rdf:li>
+            <rdf:li>closed book</rdf:li>
+            <rdf:li>greyscale</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
