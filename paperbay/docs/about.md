@@ -1,5 +1,7 @@
 # About paperbay
 
+![logo](images/logos/paperbay-s.png)
+
 paperbay is a set of free software tools to support the establishment, distribution, duplication and access of libraries and shadow libraries.
 
 ## Background
